@@ -44,16 +44,9 @@ I'm a computer science and business undergraduate at the National University of 
 
 <h2 align="Left">Statistics 📈 </h2>
 
-<div style="display: flex">
-    <img style="padding: 0.4em" align="center" src="https://github-readme-stats.vercel.app/api?username=yixiann&show_icons=true&locale=en&theme=dark"  alt="Stats" />
-    <img style="padding: 0.4em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yixiann&theme=dark" alt="yixiann" />
-</div>
-
-&NewLine;
-
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yixiann&show_icons=true&locale=en&layout=compact&theme=dark" alt="Stats" />
-</div>
+<img style="padding: 0.4em" align="center" src="https://github-readme-stats.vercel.app/api?username=yixiann&show_icons=true&locale=en&theme=dark"  alt="Stats" />
+<img style="padding: 0.4em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yixiann&theme=dark" alt="yixiann" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yixiann&show_icons=true&locale=en&layout=compact&theme=dark" alt="Stats" />
 
 <h2 align="Left">View Me </h2>
 <a href="https://github.com/yixiann/task-management" target="_blank" rel="noreferrer" onclick="window.open('http://www.google.com');">
