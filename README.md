@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/yixiann">Yi Xian</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://tanyixian.com">Yi Xian</a></h1>
 <h3 align="center">Student at NUS, Singapore 🌟</h3>
 
 <br>
