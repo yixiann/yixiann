@@ -20,7 +20,7 @@ I'm a computer science and business undergraduate at the National University of 
 
 <h2 align="Left">Statistics 📈 </h2>
 
-<img style="padding: 0.4em" align="center" src="https://github-readme-stats.vercel.app/api?username=yixiann&show_icons=true&locale=en&theme=dark"  alt="Stats" />
+<!-- <img style="padding: 0.4em" align="center" src="https://github-readme-stats.vercel.app/api?username=yixiann&show_icons=true&locale=en&theme=dark"  alt="Stats" /> -->
 <img style="padding: 0.4em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yixiann&theme=dark" alt="yixiann" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yixiann&show_icons=true&locale=en&layout=compact&theme=dark" alt="Stats" />
 
