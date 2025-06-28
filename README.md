@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://tanyixian.com">Yi Xian</a></h1>
-<h3 align="center">Student of the National University of Singapore 🌟</h3>
+<h3 align="center">A final year student studying Computer Science and Business Administration (Finance) under the double degree programme at the National University of Singapore (NUS). I am an aspiring software engineer with a passion for problem-solving and a constant desire to learn.🌟</h3>
 
 <br>
-
-I am studying computer science and business administration under the double degree programme at NUS. I am interested in full-stack web development and software engineering!
 
 <a href="https://www.linkedin.com/in/tan-yi-xian/">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin" alt="LinkedIn" />
@@ -12,9 +10,10 @@ I am studying computer science and business administration under the double degr
   <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" />
 </a>
 
-<h4 align="Left"> 🔗 Website:  <a href="https://tanyixian.com" target="_blank">tanyixian.com</a> </h4>
+<h4 align="Left"> 
+🔗 Website:  <a href="https://tanyixian.com" target="_blank">tanyixian.com</a> </h4>
 
-<img width="1275" alt="skills" src="https://github.com/yixiann/yixiann/assets/78332456/565fa37d-7502-447f-836c-6996399ce0cd">
+<img width="1275" alt="Skills" src="https://github.com/user-attachments/assets/4d02c4f6-8f20-4e37-8969-00edb232be3b" />
 
 <h2 align="Left">Statistics 📈 </h2>
 
